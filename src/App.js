@@ -8,6 +8,7 @@ import Videos from './Videos';
 import Portfolio from './Portfolio';
 import Files from './Files';
 import Blogs from './Blogs';
+import Blogstwo from './Blogstwo'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route path="/videos" element={<Videos />} />
           <Route path="/files" element={<Files />} />
           <Route path="/blogs" element={<Blogs />} />
+          <Route path="/Blogstwo" element={<Blogstwo />} />
           <Route path="/portfolio" element={<Portfolio />} />
 
         

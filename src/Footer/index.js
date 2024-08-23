@@ -1,5 +1,5 @@
 import './index.css'
-import boom from'../Footer/footericons/boomplay.png'
+// import boom from'../Footer/footericons/boomplay.png'
 import facebook from'../Footer/footericons/facebook.png'
 import  logo from'../Footer/footericons/footerlogo.png'
 import instagram from'../Footer/footericons/instagram.png'
@@ -48,7 +48,7 @@ function Footer(){
                 <div/>
                 <p className='update'> To get updates</p>
                    <input placeholder="Enter Email" />
-                   <button> <a href='#'> Subscribe </a></button> 
+                   {/* <button> <a href='#'> Subscribe </a></button>  */}
                 {/* <hr/> */}
                 <p className='policy'> @ Magezi Geeks. Inc All Rights Reserved</p>
             </div>

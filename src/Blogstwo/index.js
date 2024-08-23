@@ -28,7 +28,7 @@ Trevor Noah shares personal stories and thoughtful political insights. It includ
 
 </p>
 <div id="btn">
-<button className="buttons"><Link to="/Blogs">Back</Link></button>
+<button className="buttons"><Link to="/blogs">Back</Link></button>
 
             </div>
             </div>

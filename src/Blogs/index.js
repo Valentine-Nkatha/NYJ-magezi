@@ -52,9 +52,9 @@ const Blogs = () => {
         </div>
         <div className="blogs-two">
           <div>
-            <img src={magezi} alt="Magezi Group" className="books" />
+            <img src={magezi} alt="Magezi Group" className="bookss" />
           </div>
-          <div className="book-section">
+          <div className="book-sections">
             <h4>A Description about Magezi</h4>
             <p>
               The name Magezi is inspired
