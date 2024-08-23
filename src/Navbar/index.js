@@ -8,7 +8,7 @@ function Navbar() {
     <nav>
       <ul>
         <div>
-      <img src={magezi} alt="Magezi-logo" className="logo" />
+      <img src={magezi} alt="Magezi-logo" className="logos" />
       </div>
         <li><Link to="/">Landing Page</Link></li>
         <li><Link to="/podcast">Podcast</Link></li>

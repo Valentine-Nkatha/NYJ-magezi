@@ -21,9 +21,11 @@ function App() {
           {/* <Route path="/podcast" element={<Podcast />} /> */}
           <Route path="/videos" element={<Videos />} />
           <Route path="/files" element={<Files />} />
-          <Route path="/" element={<Blogs />} />
-          <Route path="/Blogstwo" element={<Blogstwo />} />
+          <Route path="/Blogs" element={<Blogs />} /> 
+          {/* <Route path="/Blogstwo" element={<Blogstwo />} /> */}
           <Route path="/portfolio" element={<Portfolio />} />
+          <Route path="/Blogs" element={<Blogs />} /> 
+          <Route path="/Blogstwo" element={<Blogstwo />} />
 
         
         </Routes>
