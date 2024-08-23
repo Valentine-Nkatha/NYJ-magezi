@@ -18,10 +18,10 @@ function App() {
         
         <Routes>
           <Route path="/" element={<LandingPage />} />
-          <Route path="/podcast" element={<Podcast />} />
+          {/* <Route path="/podcast" element={<Podcast />} /> */}
           <Route path="/videos" element={<Videos />} />
           <Route path="/files" element={<Files />} />
-          <Route path="/blogs" element={<Blogs />} />
+          <Route path="/" element={<Blogs />} />
           <Route path="/Blogstwo" element={<Blogstwo />} />
           <Route path="/portfolio" element={<Portfolio />} />
 

@@ -15,43 +15,45 @@ function Footer(){
         <div>
             <div className='footer'>
                 <div> <img src={logo} alt='logo' className='logo'/></div>
-                <div> 
-                    <p> <b> About </b></p>
-                    <p> Company </p>
-                    <p> News</p>
-                    <p> Investors</p>
-                    <p> Sustainability</p>
+                <div className='footer-section'> 
+                    <p className='footers'> <b> About </b></p>
+                    <p className='footer-section'> Company </p>
+                    <p className='footer-section'> News</p>
+                    <p className='footer-section'> Investors</p>
+                    <p className='footer-section'> Sustainability</p>
                     
                 </div>
-                <div>
-                <p> <b> Support</b></p>
-                    <p>Contact Us </p>
-                    <p>Products </p>
-                    <p> Returns</p>
-                    <p> Downloads</p>
+                <div className='footer-section'>
+                <p className='footers'> <b> Support</b></p>
+                    <p className='footer-section'>Contact Us </p>
+                    <p className='footer-section'>Products </p>
+                    <p className='footer-section'> Returns</p>
+                    <p className='footer-section'> Downloads</p>
                 </div>
-                <div> 
-                <p> <b> Products</b></p>
-                    <p> Blogs</p>
-                    <p> Videos</p>
-                    <p> Portfolio</p>
-                    <p> Podcasts</p>
+                <div className='footer-section'> 
+                <p className='footers'> <b> Products</b></p>
+                    <p className='footer-section'> Blogs</p>
+                    <p className='footer-section'> Videos</p>
+                    <p className='footer-section'> Portfolio</p>
+                    <p className='footer-section'> Podcasts</p>
                 </div>
                 <div className='icons'> 
-                   <span> <img src={twitters} alt='twitter '/></span> 
-                   <span><img src={facebook} alt=' facebook'/> </span>
-                   <span> <img src={instagram} alt=' instagram'/></span>
-                   <span> <img src={youtube} alt=' you tube'/></span>
+                   <span> <img src={twitters} alt='twitter ' className='icons'/></span> 
+                   <span><img src={facebook} alt=' facebook'className='icons'/> </span>
+                   <span> <img src={instagram} alt=' instagram' className='icons'/></span>
+                   <span> <img src={youtube} alt=' you tube' className='icons'/></span>
                    {/* <span><img src={boom} alt=' boomplay'/> </span> */}
     
                 </div>
                 <div/>
+                
                 <p className='update'> To get updates</p>
-                   <input placeholder="Enter Email" />
-                   {/* <button> <a href='#'> Subscribe </a></button>  */}
+                   <input placeholder="Enter Email" className='email'/>
+                   <button>  Subscribe </button>
                 {/* <hr/> */}
                 <p className='policy'> @ Magezi Geeks. Inc All Rights Reserved</p>
             </div>
+            
 
             </div>
 
