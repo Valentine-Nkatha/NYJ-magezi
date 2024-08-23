@@ -10,7 +10,7 @@ function Navbar() {
         <div>
       <img src={magezi} alt="Magezi-logo" className="logos" />
       </div>
-        <li><Link to="/">Landing Page</Link></li>
+        <li><Link to="/"><b>Landing Page</b></Link></li>
         <li><Link to="/podcast">Podcast</Link></li>
         <li><Link to="/videos">Videos</Link></li>
         <li><Link to="/portfolio">Portfolio</Link></li>

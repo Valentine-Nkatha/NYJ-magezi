@@ -24,7 +24,14 @@ The impacts of apartheid still affect societies today, particularly in the areas
 
 Trevor Noah also talks about how education can help people move up the social ladder and how having opportunities can shape where someone ends up in life. Even though things were really hard for him, Noah getting an education gave people hope and a way to get out of being poor. His story shows how important good education is in stopping the cycle of poverty and making society better for everyone.
 
-Trevor Noah shares personal stories and thoughtful political insights. It includes Noah's observations on South Africa's political landscape, discussing the rise of the ANC and the complexities of navigating a multiracial identity under a Black-majority government.
+Trevor Noah shares personal stories and thoughtful political insights. It includes Noah's observations on South Africa's political landscape, discussing the rise of the ANC and the complexities of navigating a multiracial identity under a Black-majority government.Using humor as a social tool:
+
+While Noah was in school, He was a mixed-race student and he used humor to socialize with other students. He knew that he was not good at soccer but he was great at pretending. He would pretend to be the best player in the field and he would run and shout that he was the best and he would make dramatic gestures even though he was in the right position and never knew what was going on. The other kids would watch him and laugh but he knew that they were not laughing at him but they were laughing with him. Rc             
+
+Humor in Difficult Situations:
+There was one time when Trevor Noah was with his friends and they got pulled over by cops. He made the cops laugh and in the end, they let them go. He said that he hoped if they saw him as a funny guy they would forget that they were supposed to arrest him. There is also one time when Trevor Noah was with his friend and they were surrounded by a gang of thieves who wanted to steal their car. Trevor was scared but he did not want to show it, he started making jokes about the whole situation and the thieves looked at each other and they ended up walking away.
+
+
 
 </p>
 <div id="btn">

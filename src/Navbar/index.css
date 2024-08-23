@@ -79,9 +79,13 @@ ul{
     display: flex;
     justify-content: space-around;
     list-style: none;
-    font-size: 60%;
+    font-size: 160px;
+   
 }
 .logos{
     height: 80px;
     margin-left: -350%;
+}
+nav{
+    font-size: 60px;
 }
