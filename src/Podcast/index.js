@@ -29,7 +29,9 @@ const About = ()=>{
                  <li>Women in Tech</li>
 
                  </ul>
+                 
                  <img src='https://i.pinimg.com/474x/34/8b/c1/348bc17323a1ad8dc50ad0ce2aed0861.jpg' alt=''/>
+                 
 
             </div>
 

@@ -1,12 +1,16 @@
+
 import "./index.css"
 import React from "react";
-// import Blogs from "../Blogs";
-// import { useState } from "react";
+import books from "../Assets/Screenshot from 2024-07-09 11-09-18 1.png";
+import { Link } from "react-router-dom";
 
 
 const Blogstwo=()=>{
     return(
         <div className="reading-section">
+            <div>
+                <img src={books} alt="Born a Crime" id="images"/>
+            </div>
            
         
             <div className="trevor-Noah">
@@ -23,8 +27,12 @@ Trevor Noah also talks about how education can help people move up the social la
 Trevor Noah shares personal stories and thoughtful political insights. It includes Noah's observations on South Africa's political landscape, discussing the rise of the ANC and the complexities of navigating a multiracial identity under a Black-majority government.
 
 </p>
+<div id="btn">
+<button className="buttons"><Link to="/Blogs">Back</Link></button>
 
             </div>
+            </div>
+            
 
         </div>
     )

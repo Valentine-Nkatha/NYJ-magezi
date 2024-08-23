@@ -54,8 +54,10 @@
     }
     
     .videoGrid {
-      display: flex;
-      flex-direction: column;
+      display: grid;
+      grid-template-columns: repeat(2,2);
+      /* display: flex; */
+      /* flex-direction: column; */
       gap: 30px;
     }
     

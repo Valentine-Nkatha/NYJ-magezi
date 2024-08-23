@@ -1,44 +1,39 @@
-
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import About from './Podcast';
-import Landingpage from "./LandingPage";
-import Navbar from "./Navbar";
-// import Portfolio from './Portfolio';
-// import Footer from './Footer';
-import Files from './Files';
-import Nakato from './Files';
-import Valentine from './Files';
+// App.js
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Navbar from './Navbar';
+import Footer from './Footer';
+import LandingPage from './LandingPage';
+import Podcast from './Podcast';
 import Videos from './Videos';
-import Blogs from "./Blogs";
-import Blogstwo from "./Blogstwo";
+import Portfolio from './Portfolio';
+import Files from './Files';
+import Blogs from './Blogs';
 
 function App() {
   return (
     <Router>
-
       <div>
         <Navbar/>
-       
-
+        
         <Routes>
-          <Route path="/" element={<Landingpage />}/>
-          <Route path="/podcast" element={<About/>}/>
-           <Route path="/videos" element={<Videos />} />
-           {/* <Route path='/portfolio' element={<Portfolio/> }/> */}
-        <Route path='/file' element={<Files/>}/>
-        <Route path='/nakato' element={<Nakato/>}/>
-        <Route path='/val' element={<Valentine/>}/>
-        <Route path="/blogs" element={<Blogs />} />
-        <Route path="/Blogstwo" element={<Blogstwo />} />
+          <Route path="/" element={<LandingPage />} />
+          <Route path="/podcast" element={<Podcast />} />
+          <Route path="/videos" element={<Videos />} />
+          <Route path="/files" element={<Files />} />
+          <Route path="/blogs" element={<Blogs />} />
+          <Route path="/portfolio" element={<Portfolio />} />
 
+        
         </Routes>
-         {/* <Footer/> */}
+        
+        <Podcast/>
+        <Blogs/>
+        <Videos/>
+        <Portfolio/>
+        <Footer/>
       </div>
-
-     
     </Router>
   );
 }
 
 export default App;
-
