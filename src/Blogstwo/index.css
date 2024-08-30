@@ -1,9 +1,10 @@
 .trevor-Noah {
-    text-align: justify;
-    margin-left: 5%;
-    margin-right: 2%;
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 1%;
     font-size: 30px;
     color: #01655e;
+    font-weight: 100;
   }
   
   #born-crime {
@@ -21,6 +22,9 @@
     /* box-shadow: 10px 10px 10px#F97D30; */
     font-size: 23px;
     
+  }
+  .blogs-part{
+    text-align: justify;
   }
   .buttons{
     background-color: #f97d30;

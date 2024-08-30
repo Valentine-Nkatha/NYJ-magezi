@@ -16,13 +16,13 @@ const Landingpage = () =>{
                 <div>
                     <p id="landingpage-text">
                         Get to listen to your favourite 
-                        <span className='highlight'> Podcast</span>, watch informartive 
+                        <span className='highlight'> Podcast</span>, watch informative 
                         <span className='highlight'> Videos </span>
                          and read our inspiring 
                         <span className='highlight'> Blogs </span>
                     </p>
 
-                    <button>Get Started</button>
+                    <button className='btn-started'>Get Started</button>
                 </div>
 
 
